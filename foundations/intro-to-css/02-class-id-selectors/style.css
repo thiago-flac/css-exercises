@@ -1,3 +1,8 @@
 .sargos {
     background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+#miler {
+    color: blue;
+    font-size: 36px;
 }
