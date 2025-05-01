@@ -1,0 +1,20 @@
+// Folder-specific settings
+//
+// For a full list of overridable settings, and general information on folder-specific settings,
+// see the documentation: https://zed.dev/docs/configuring-zed#settings-files
+{
+  "soft_wrap": "editor_width",
+  "formatter": null,
+  "format_on_save": "off",
+  "show_completions_on_input": false,
+  "languages": {
+    "HTML": {
+      "formatter": null,
+      "format_on_save": "off"
+    },
+    "JavaScript": {
+      "formatter": null,
+      "format_on_save": "off"
+    }
+  }
+}
